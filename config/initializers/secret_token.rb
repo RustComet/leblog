@@ -4,4 +4,4 @@
 # If you change this key, all old signed cookies will become invalid!
 # Make sure the secret is at least 30 characters and all random,
 # no regular words or you'll be exposed to dictionary attacks.
-Leblog::Application.config.secret_token = 'b2f4cd180ac4cac522ea6db7a2ce323e245d5bbe67a8692152cec7728fa919490dd17964ddfbad1a41f6012eaa361f148ec175e8dfc35cf0f21a39b6d122de3a'
+Leblog::Application.config.secret_token = '46abffb2598b062cff4a2f06a60e247565d9c2d3ad4dd9c4328c1197f24b34d749b97b0a236a49d62aa618bafaf5781fb5134085966b334e0cdfab2311e8c51a'
